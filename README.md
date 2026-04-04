@@ -2,21 +2,32 @@
 
 ## [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
-#### Оновлений блок «Наша Команда» (приклад таблиці)
-
-Таблиця виглядає набагато компактніше і професійніше для великої команди:
-
-```markdown
 ## 👥 Наша Команда
 
-|                            Аватар                             | Розробник                                              | Роль / Секція      |
-| :-----------------------------------------------------------: | :----------------------------------------------------- | :----------------- |
-| <img src="https://github.com/Evgeniy-sub8way.png" width="40"> | [Yevhenii Priadko](https://github.com/Evgeniy-sub8way) | **Team Lead**      |
-|    <img src="https://github.com/MyLyashok.png" width="40">    | [Mykola Lyashok](https://github.com/MyLyashok)         | **Scrum Master**   |
-|  <img src="https://github.com/SerdiukSerhii.png" width="40">  | [Serhii Serdiuk](https://github.com/SerdiukSerhii)     | Furniture Section  |
-|  <img src="https://github.com/OlyaBorzynska.png" width="40">  | [Olha Borzynska](https://github.com/OlyaBorzynska)     | Feedback Section   |
-|  <img src="https://github.com/alex-asriian.png" width="40">   | [Oleksii](https://github.com/alex-asriian)             | FAQ + Accordion    |
-|   <img src="https://github.com/YuliaKozak.png" width="40">    | [Yuliia Kozak](https://github.com/YuliaKozak)          | Frontend Developer |
-|   <img src="https://github.com/Vika0605-av.png" width="40">   | [Viktoria Alexandrova](https://github.com/Vika0605-av) | Frontend Developer |
-|    <img src="https://github.com/Liliia-2.png" width="40">     | [Liliia Pastushenko](https://github.com/Liliia-2)      | Frontend Developer |
-```
+|    Аватар     | Розробник                       | Роль / Секція      |
+| :-----------: | :------------------------------ | :----------------- |
+| ![YP][yp_img] | [Yevhenii Priadko][yp_link]     | **Team Lead**      |
+| ![ML][ml_img] | [Mykola Lyashok][ml_link]       | **Scrum Master**   |
+| ![SS][ss_img] | [Serhii Serdiuk][ss_link]       | Furniture Section  |
+| ![OB][ob_img] | [Olha Borzynska][ob_link]       | Feedback Section   |
+| ![AA][aa_img] | [Oleksii][aa_link]              | FAQ + Accordion    |
+| ![YK][yk_img] | [Yuliia Kozak][yk_link]         | Frontend Developer |
+| ![VA][va_img] | [Viktoria Alexandrova][va_link] | Frontend Developer |
+| ![LP][lp_img] | [Liliia Pastushenko][lp_link]   | Frontend Developer |
+
+[yp_img]: https://github.com/Evgeniy-sub8way.png?size=40
+[ml_img]: https://github.com/MyLyashok.png?size=40
+[ss_img]: https://github.com/SerdiukSerhii.png?size=40
+[ob_img]: https://github.com/OlyaBorzynska.png?size=40
+[aa_img]: https://github.com/alex-asriian.png?size=40
+[yk_img]: https://github.com/YuliaKozak.png?size=40
+[va_img]: https://github.com/Vika0605-av.png?size=40
+[lp_img]: https://github.com/Liliia-2.png?size=40
+[yp_link]: https://github.com/Evgeniy-sub8way
+[ml_link]: https://github.com/MyLyashok
+[ss_link]: https://github.com/SerdiukSerhii
+[ob_link]: https://github.com/OlyaBorzynska
+[aa_link]: https://github.com/alex-asriian
+[yk_link]: https://github.com/YuliaKozak
+[va_link]: https://github.com/Vika0605-av
+[lp_link]: https://github.com/Liliia-2
