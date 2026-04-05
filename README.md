@@ -3,7 +3,7 @@
 # 🛋️ Меблерія — Створюємо простір вашої мрії
 
 <p align="center">
-  <img src="./assets/project-preview.png" alt="Mebleuria Preview" width="100%">
+  <img src="./img/hero-section-preview.png" alt="Mebleuria Preview" width="100%">
 </p>
 
 ---
@@ -83,7 +83,7 @@ REST API, складною системою фільтрації та фокус
 |   <img src="https://github.com/Vika0605-av.png" width="50" height="50">   | [Viktoria Alexandrova](https://github.com/Vika0605-av) | Frontend Developer |
 |    <img src="https://github.com/Liliia-2.png" width="50" height="50">     | [Liliia Pastushenko](https://github.com/Liliia-2)      | Frontend Developer |
 |  <img src="https://github.com/Olechka-coder.png" width="50" height="50">  | [Olga Tsasiuk](https://github.com/Olechka-coder)       | Frontend Developer |
-|  <img src="https://github.com/Olechka-coder.png" width="50" height="50">  | [Olga Tsasiuk](https://github.com/Olechka-coder)       | Frontend Developer |
+|  <img src="https://github.com/Olechka-coder.png" width="50" height="50">  | [Ivan Shkilnyi](https://github.com/Ivan-Shkilnyi)      | Frontend Developer |
 
 ---
 
